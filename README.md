@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on software engineering<br>🤝 I’m looking for help with web develpment and ideas <br>🌱 I’m currently learning web development and networking<br>💬 Ask me about web development<br>⚡ Fun fact : JavaScript is now one of the most popular programming languages in the world, and it is used to power millions of websites and web applications. So next time you're using a website or app, be sure to thank Brendan Eich for his quick work!
-
+Dint mention , am a beginner 😅
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mwas Mwas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mwashi_victor ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@mwashiv) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@innerme34) 
